@@ -1,6 +1,6 @@
 _The purpose of this library is to improve type safety when using the `System.CommandLine` package in F# by utilizing computation expression syntax._
 
-## Features
+## Features 
 
 ### Improved type safety
 * Mismatches between `inputs` and `setHandler` are caught at compile time
