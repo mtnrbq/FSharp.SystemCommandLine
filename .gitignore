@@ -12,7 +12,7 @@ nupkg
 *.dll
 *UCASE.txt
 
-# JetBrains Raider - - - - - -
+# JetBrains Rider
 
 # User specific
 **/.idea/**/workspace.xml
